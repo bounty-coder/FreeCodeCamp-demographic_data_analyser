@@ -1,5 +1,3 @@
-### Assignment
-
 # Demographic Data Analyzer
 
 In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
@@ -35,10 +33,6 @@ For development, you can use `main.py` to test your functions. Click the "run" b
 ### Testing 
 
 We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
-
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
 
 ### Dataset Source
 
